@@ -1,12 +1,16 @@
 ---
 title: My Paper
 authors:
-  - name: Norah Jones
+  - name: Claire Mittel
     affiliation: The University
     roles: writing
     corresponding: true
+  - name: Bailey Stender
+    affiliation: The University
+    roles: writing
+    corresponding: false
 bibliography: references.bib
 ---
 
 ## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+This is a simple placeholder for the manuscript's main document [@brighenti2019ecosystem].
