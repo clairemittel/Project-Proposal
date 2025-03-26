@@ -1,16 +1,90 @@
 ---
-title: My Paper
+title: Project Proposal
 authors:
   - name: Claire Mittel
-    affiliation: The University
+    affiliation: Colorado State University
     roles: writing
     corresponding: true
   - name: Bailey Stender
-    affiliation: The University
+    affiliation: Colorado State University
     roles: writing
     corresponding: false
 bibliography: references.bib
+csl: apa.csl
 ---
 
-## Section
-This is a simple placeholder for the manuscript's main document [@brighenti2019ecosystem].
+# Claire Mittel Ideas
+
+## **Glacier Retreat Effects on Ecosystems**
+
+### **Justification:**
+
+The first idea that I have is to analyze data on glacier retreat and its effects on the surrounding ecosystems. This is a significant topic because there are big impacts on changing ecosystems as they retreat, becoming rangelands (@bolch2007climate). There is also data about the amount that glaciers are retreating every year (@leclercq2014data). The amount of retreat that is happening every year is increasing, and because of its increase the ecosystems are having to combat the change in habitat and land cover. I think that this is significant because glaciers are being affected by climate change more than most areas in the world, and they are causing a positive feedback loop. This feedback loop is important because the more that the glaciers melt, the less albito the earth has to reflect sun rays which then causes a quicker heating up of the planet. This then causes climate change and global warming to occur faster.
+
+### Research question/hypothesis:
+
+How much impact does glacier melt have on surrounding ecosystems? There will be a significant impact on surrounding ecosystems.
+
+### Proposed methods:
+
+The data for this will come from @leclercq2014data and other global land cover data for the retreat amount, and the ecosystem effects data will come from @cauvy2019global. This will be on a temporal scale. One statistical test could be to do a Q-test on ecosystems developing where glaciers were.
+
+### Expected outcomes:
+
+I think that the results will show that there is a great impact on ecosystems around glaciers. These results are important because glaciers are incredibly important to the planet because they increase the albedo of the world which helps keep global warming slow. As they melt, they are creating less protection from global warming and their melting is increasing every year.
+
+## **Changes in Colorado Streamflows on Fish**
+
+### Justification:
+
+The second idea that I have is to see how different streamflow measurements affect fish populations. This is a significant topic because fish are a very important part to river ecosystems, especially in Colorado. They are a significant source of income for the Parks and Wildlife and are beneficial to those ecosystems. Since streamflow varies so much in Colorado (@ficklin2013climate), I think that it would be important to show the impacts it has on fish species. The streamflow also has different impacts on different species and it is important to show the difference that it makes on their population densities. These different species also have different importance to the river ecosystems. The most delicate species are the endangered species and they are most affected by the varying streamflows of the rivers (@van1998geomorphology). I think that this would be an important topic to cover because of the delicacy of fish and how much they impact the river ecosystems.
+
+### Research question/hypothesis:
+
+How does streamflow affect different fish populations? Trout populations will be the least affected by streamflow variation.
+
+### Proposed methods:
+
+The datasets that will be used in this are @ficklin2013climate and @van1998geomorphology. One statistical test that can happen is a Q-test on the density of populations with low streamflow. This would be a spatial scale.
+
+### Expected outcomes:
+
+I think that the results will show that trout are the least affected by streamflow changes. I think this because they are the most dominant species in Colorado. I also think that the endangered species will be the most affected by streamflow changes. I think that this will happen because their populations are already low and will have more of a sensitivity to changes.\
+
+# Bailey Stender Ideas
+
+## **Climate Trends of the Colorado River Basin and Potential Effects of Water Resource Availability**
+
+### Justification:
+
+The Colorado River Basin supplies water to nearly 40 million people in the Colorado River Basin states of the southwest (@tillman2020trends). It is the most overallocated water supply in the world (@coriver). It is projected that demand for this resource will outstrip its supply, a problem that climate change will likely worsen (@coriver). Understanding past and projected changes in climate through measures such as temperature and precipitation is important for water managers and policymakers to make sustainable decisions for managing the river (@tillman2020trends). Since climate change will likely decrease the amount of water available to these arid states that depend on rivers and reservoirs, it is important to project how these changes will progress as the climate continues to heat up and make areas dryer (@tillman2020trends).
+
+### Research question/hypothesis:
+
+The specific objective I aim to achieve in this study is to find out how climate change on the Colorado River Basin will potentially affect the availability of groundwater resources for arid states of the southwest. I want to study the hypothesis that groundwater resources of the Colorado River Basin are being diminished by changes in climate.
+
+### Proposed methods:
+
+I will be using datasets from the source <https://pubs.usgs.gov/publication/sir20205107>. This source provides two sets of data on the lower and upper Colorado River Basin. The data contained is results from a groundwater recharge model. The scale will be focused spatially on the entire basin area and temporally on historical climate data (1950-present) and future projections (2025-2099). I will use this data to assess and analyze how the water basin and surrounding climate is changing over time. The statistical tests I will use in my hypothesis are t-tests and ANOVA tests. I will also use a time-series graph to visualize the projected data. A multiple linear regression could also be used to model the relationships between climate variables.
+
+### Expected outcomes:
+
+In the results I expect to find a general decrease in the groundwater resources available based on decreased precipitation, increased temperature, etc. This outcome is important because it informs relevant stakeholders of the amount of groundwater that will be available in the future and the rate of recharge under future climate predictions.
+
+## **How Beavers Influence Their Ecosystems**
+
+### Justification: 
+
+Beavers are widely known as “ecosystem engineers” because they are able to build structures that can change the entire functioning of an ecosystem. Beaver ponds and dams are important for a multitude of aquatic species that depend on deeper water as part of their life cycles. It is important to understand the positive impacts beavers have on aquatic environments as beavers have been extirpated in many areas of America in the past due to the value of their pelt for trading (@johnston2017beavers). This research will help inform scientists and ecosystem managers on sustainability and long term effects of beaver activity on their ecosystems (@johnston2017beavers). This project is also intended to study how the reintroduction of beavers to various ponds, rivers, and watersheds has influenced these various ecosystems (@johnson2022relics). It is also suggested that restoring beavers to landscapes increases surface water storage and will contribute to a variety of conservation initiatives (@johnson2022relics).
+
+### Research question/hypothesis:
+
+The hypothesis I aim to test is that beavers are a positive influence on the health of the ecosystems they alter.
+
+### Proposed methods:
+
+The datasets available are from the two sources I cited above, <https://zenodo.org/records/4936839>, <https://datadryad.org/dataset/doi:10.5061/dryad.c866t1g85>. Data from these papers are contained on websites following this link. The first dataset contains a variety of observations from beaver meadow ecosystems  (chemical/nutrients, hydrology, plant community, weather, soils). The second dataset contains information on surface water arial data, beaver populations, and precipitation values. The spatial scale will be at specific sites in Minnesota, and the temporal scale will be in the last 70 years. The statistical tests I will use in my hypothesis are t-tests and ANOVA tests. These will be used to test the groups of ecosystems before beavers were introduced and after. I will also use a multiple regression model to test different variables or predictors of ecosystem health. 
+
+### Expected outcomes:
+
+In the results I expect to find a positive influence of beavers on their natural environments. This outcome is important because it highlights the need to restore and manage beaver populations.
